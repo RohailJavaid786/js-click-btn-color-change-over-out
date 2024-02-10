@@ -1,0 +1,20 @@
+.myDiv {
+    width: 250px;
+    height: 250px;
+    background-color: lightblue;
+    margin-top: 80px;
+    position:absolute;
+    left: 550px;
+    cursor: pointer;
+    border-radius: 20px 15px;
+    border: 2px rgb(84, 10, 159) dotted;
+  }
+
+  #myButton{
+    padding: 10px 15px;
+    display: block;
+    margin: auto;
+    cursor: pointer;
+    background-color: yellow;
+    color: rgb(208, 25, 25);
+  }
